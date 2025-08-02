@@ -15,3 +15,4 @@ Esta aplicação é uma **Single Page Application (SPA)** que consome a **API de
 - **Frontend (SPA)**: Interface de usuário construída com JavaScript puro e Materialize CSS
 - **Servidor Proxy**: Encaminha requisições do frontend para a API
 - **API de Autenticação**: Fornece endpoints para autenticação, cadastro e gerenciamento de usuários
+a
